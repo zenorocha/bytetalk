@@ -1,0 +1,19 @@
+{
+  "name": "bytetalk",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "deploy": "vercel --prod"
+  },
+  "author": "Zeno Rocha",
+  "license": "MIT",
+  "dependencies": {
+    "dracula-ui": "github:dracula/dracula-ui#alpha",
+    "next": "^9.4.0",
+    "normalize.css": "^8.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
